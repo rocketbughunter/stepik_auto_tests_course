@@ -1,7 +1,6 @@
 # stepik_auto_tests_course
-Задания на курсе по автоматизации
+Задания на курсе по автоматизации тестирования
 
-https://stepik.org/course/575
+Ссылка на курс https://stepik.org/course/575
 
-Ссылка на курс
 
