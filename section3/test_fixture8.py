@@ -28,3 +28,5 @@ class TestMainPage1():
 
 
 # запуск с маркировкой из терминала pytest -s -v -m smoke test_fixture8.py выполнятся только те что промаркированы в смоук
+# запуск с маркировкой НЕ смоук pytest -s -v -m "not smoke" test_fixture8.py
+# запуск с макировкой смоук или регресс pytest -s -v -m "smoke or regression" test_fixture8.py
